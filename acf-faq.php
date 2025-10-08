@@ -6,7 +6,7 @@
  * Version:     1.0.0
  * Author:      Anton Esin <a.esin@creationell.de>
  * Author URI:  https://www.creationell.de/
- * Contributors: anton-esin
+ * Contributors: aesin
  * Tags:        faq, structured data
  * Requires Plugins: advanced-custom-fields-pro
  * Requires at least: 6.7
